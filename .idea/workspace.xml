@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ed9ef0-ec60-4514-9d0e-29bb311903bc" name="Changes" comment="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b8ed9ef0-ec60-4514-9d0e-29bb311903bc" name="Changes" comment="Real final commit- renamed&#10;class and filename to RockPaperScissors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,13 +19,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sethk/IdeaProjects/Rock-Paper-Scissors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sethk/IdeaProjects/Rock-Paper-Scissors&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,12 +49,20 @@
       <option name="project" value="LOCAL" />
       <updated>1705073650247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Real final commit- renamed&#10;class and filename to RockPaperScissors">
+      <created>1705073965962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073965962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Commit - Setup" />
     <MESSAGE value="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)" />
+    <MESSAGE value="Real final commit- renamed&#10;class and filename to RockPaperScissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Real final commit- renamed&#10;class and filename to RockPaperScissors" />
   </component>
 </project>
