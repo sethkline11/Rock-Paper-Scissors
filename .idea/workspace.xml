@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ed9ef0-ec60-4514-9d0e-29bb311903bc" name="Changes" comment="1st Commit - Setup">
+    <list default="true" id="b8ed9ef0-ec60-4514-9d0e-29bb311903bc" name="Changes" comment="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +45,19 @@
       <option name="project" value="LOCAL" />
       <updated>1705071528337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)">
+      <created>1705073650247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073650247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Commit - Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Commit - Setup" />
+    <MESSAGE value="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit- finished Rock Paper Scissors (easy program to get accustomed to Java syntax)" />
   </component>
 </project>
